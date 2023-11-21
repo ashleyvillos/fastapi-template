@@ -1,0 +1,7 @@
+OK_MESSAGE = "Success"
+CREATED_MESSAGE = "Successfully Created"
+UPDATE_MESSAGE = "Successfully Updated"
+NOTFOUND_MESSAGE = "Not Found"
+BADREQUEST_MESSAGE = "Bad Request"
+INTERNAL_SERVER_ERROR_MESSAGE = "Internal Server Error"
+BADREQUEST_USER_EXIST_MESSAGE = "User Already Exist"
